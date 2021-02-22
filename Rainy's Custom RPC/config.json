@@ -1,0 +1,8 @@
+{
+    "token":"token-here",
+    "client_id": "clientid-here",
+    "description": "description-here",
+    "large_image": "imagename-here",
+    "button_title": "buttontitle-here",
+    "button_website": "url-here"
+}
